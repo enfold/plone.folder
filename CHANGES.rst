@@ -8,6 +8,13 @@ Changelog
 
 .. towncrier release notes start
 
+3.0.3+enfold1 (Unreleased)
+--------------------------
+
+- Fix webdav PUTs
+  [enfold-josh]
+
+
 3.0.3 (2020-06-24)
 ------------------
 
