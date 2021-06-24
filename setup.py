@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '3.0.3+enfold1'
+version = '3.0.3+enfold2.dev0'
 
 setup(
     name='plone.folder',
